@@ -1,6 +1,6 @@
 {
   "name": "vangog",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Image selector built with ReactJS",
   "main": "dist/vangog.js",
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "homepage": "http://vangog.js.org",
   "peerDependencies": {
-    "react": "^15.2.1",
+    "react": "^15.3.0",
     "react-dropzone": "^3.5.3"
   },
   "devDependencies": {
@@ -48,7 +48,7 @@
     "html-webpack-plugin": "^2.22.0",
     "less": "^2.7.1",
     "less-loader": "^2.2.3",
-    "react": "^15.2.1",
+    "react": "^15.3.0",
     "react-dropzone": "^3.5.3",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
